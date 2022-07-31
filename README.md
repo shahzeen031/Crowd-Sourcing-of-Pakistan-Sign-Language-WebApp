@@ -31,7 +31,7 @@ The Frontend is Built using React and Redux.
 
 - Responsive UI is designed using the CSS framework Bootstrap.
 
-![UI](/assets/image/UI.png)
+![UI](/asset/image/UI.png)
 
 - Redux is a predictable state container for JavaScript apps.
 
