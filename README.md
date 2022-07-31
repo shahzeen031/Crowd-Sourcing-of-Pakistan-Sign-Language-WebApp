@@ -73,7 +73,7 @@ Allows to Define a routing table which is used to perform different actions base
 
 The User file in the `Routes/API` folder contains the Get API to fetch the data from the Random User API.
 
-Backend Server run on the `http://localhost:5050`
+Backend Server run on the `http://localhost:5000`
 
-we can access the user API in Postman by `http://localhost:5050/api/user`
+we can access the user API in Postman by `http://localhost:5000/api/user`
 
