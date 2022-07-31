@@ -1,7 +1,7 @@
 # Crowd-Sourcing-of-Pakistan-Sign-Language-WebApp
 ## Description:
 
-- Tech Stack use `Node, Express MongoDB, React, Redux`.
+- Tech Stack use `Node, Express, MongoDB, React, Redux`.
 - A web App for collecting Sign Language Gestures form public and evaluating them by experts to create a Sign Language Corpus (Dataset).
 - Also provide a already built Sign Language dictionary response.
 - User can sign-up to submit a sign then the experts evaluate them and provide rating, if its pass the initial criteria it is added into a sign language dictionary
