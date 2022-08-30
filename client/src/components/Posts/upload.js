@@ -50,7 +50,7 @@ export default class FilesUploadComponent extends Component {
     formData.append('Region', this.state.Region);
     console.log('state: ', this.state);
     axios
-      .post('http://localhost:5000/api/upload', formData, {
+      .post('/api/upload', formData, {
         onUploadProgress: (ProgressEvent) => {
           this.setState({
             loaded: (ProgressEvent.loaded / ProgressEvent.total) * 100,
