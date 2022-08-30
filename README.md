@@ -1,7 +1,7 @@
 # Crowd-Sourcing-of-Pakistan-Sign-Language-WebApp
 ## Description:
 
-- Tech Stack use `Node, Express MongoDB, React, Redux`.
+- Tech Stack use `Node, Express, MongoDB, React, Redux`.
 - A web App for collecting Sign Language Gestures form public and evaluating them by experts to create a Sign Language Corpus (Dataset).
 - Also provide a already built Sign Language dictionary response.
 - User can sign-up to submit a sign then the experts evaluate them and provide rating, if its pass the initial criteria it is added into a sign language dictionary
@@ -31,7 +31,7 @@ The Frontend is Built using React and Redux.
 
 - Responsive UI is designed using the CSS framework Bootstrap.
 
-![UI](/assets/image/Screenshot 2022-07-31 214255.png)
+![UI](/asset/image/UI.png)
 
 - Redux is a predictable state container for JavaScript apps.
 
@@ -71,9 +71,9 @@ Express is a minimal and flexible Node.js web application framework that provide
 
 Allows to Define a routing table which is used to perform different actions based on HTTP Method and URL.
 
-The User file in the `Routes/API` folder contains the Get API to fetch the data from the Random User API.
+The User file in the `Routes/API` folder contains the Get API to fetch the data.
 
-Backend Server run on the `http://localhost:5050`
+Backend Server run on the `http://localhost:5000`
 
-we can access the user API in Postman by `http://localhost:5050/api/user`
+we can access the user API in Postman by `http://localhost:5000/api/user`
 
