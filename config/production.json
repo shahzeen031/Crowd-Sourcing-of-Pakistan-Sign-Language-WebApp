@@ -1,5 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Admin123:admin123@cluster0-tyyrr.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecretokenuser"
-  }
-  
+  "mongoURI": "mongodb://dbUser:dbUser@cluster0-shard-00-00.pddxm.mongodb.net:27017,cluster0-shard-00-01.pddxm.mongodb.net:27017,cluster0-shard-00-02.pddxm.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "mysecretokenuser"
+}
