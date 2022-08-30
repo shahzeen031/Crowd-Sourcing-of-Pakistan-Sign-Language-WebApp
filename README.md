@@ -71,7 +71,7 @@ Express is a minimal and flexible Node.js web application framework that provide
 
 Allows to Define a routing table which is used to perform different actions based on HTTP Method and URL.
 
-The User file in the `Routes/API` folder contains the Get API to fetch the data from the Random User API.
+The User file in the `Routes/API` folder contains the Get API to fetch the data.
 
 Backend Server run on the `http://localhost:5000`
 
